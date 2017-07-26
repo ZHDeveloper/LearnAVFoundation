@@ -74,6 +74,5 @@ func imagePickerController(_ picker: UIImagePickerController, didFinishPickingMe
 
 ```
 
-### AVFoundation录制视频
+### AVFoundation录制视频 (未完待续。。。)
 
-使用AVCaptureMovieFileOutput来进行视频的录制不能暂停视频的录制。这里主要介绍
